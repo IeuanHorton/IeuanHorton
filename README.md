@@ -1,8 +1,7 @@
 # Ieuan Horton
 
-👑 God's favorite C++ princess  
-🏳️‍⚧️ Trans • 🐈 Parent of 6 cats  
-🔧 Software Developer (C++ mainly)
+👑 God's favorite C++ princess\
+🔧 Software Developer
 
 I use Arch btw ☝️🤓
 
