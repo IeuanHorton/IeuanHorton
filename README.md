@@ -3,7 +3,6 @@
 
 
 👑 God's favorite C++ princess\
-🔧 Software Developer
 
 I use Arch btw ☝️🤓
 
